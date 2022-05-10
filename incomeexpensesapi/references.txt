@@ -1,0 +1,5 @@
+https://drf-yasg.readthedocs.io/en/stable/readme.html#installation - for swagger
+
+https://django-rest-framework-simplejwt.readthedocs.io/en/latest/ - simple jwt
+
+https://github.com/encode/django-rest-framework/blob/master/docs/api-guide/renderers.md  -renderers 
